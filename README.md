@@ -12,8 +12,8 @@
 ## Запуск программы ##
 Для запуска введите в командной строке: **java -jar target\cftTest-1.0-SNAPSHOT.jar [*arguments*]** 
 
-*Где **arguments** это перечисленные через запятую аргументы*
-*Пример: *java -jar target\cftTest-1.0-SNAPSHOT.jar -i -a D:\Ivan\o.txt D:\\Ivan\\1.txt D:\\Ivan\\2.txt D:\\Ivan\\3.txt
+*Где **arguments** это перечисленные аргументы*
+*Пример:* java -jar target\cftTest-1.0-SNAPSHOT.jar -i -a D:\Ivan\o.txt D:\\Ivan\\1.txt D:\\Ivan\\2.txt D:\\Ivan\\3.txt
 
 ## Особенности реализации ##
 
